@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日常 on A Hugo Site</title>
+    <link>https://lenux.netlify.app/categories/%E6%97%A5%E5%B8%B8/</link>
+    <description>Recent content in 日常 on A Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Mon, 02 May 2022 15:31:41 +0800</lastBuildDate><atom:link href="https://lenux.netlify.app/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>嘟囔</title>
+      <link>https://lenux.netlify.app/posts/%E5%98%9F%E5%9B%94/</link>
+      <pubDate>Mon, 02 May 2022 15:31:41 +0800</pubDate>
+      
+      <guid>https://lenux.netlify.app/posts/%E5%98%9F%E5%9B%94/</guid>
+      <description>近期活动 最近在鼓捣毕业论文，经过几天的不懈奋斗凑字数终于在昨天得到了导师的回复：完成度较高，继续完善、降重。就初期来说还是不错的，当然本站也是在论文创作期间建成的。
+但是代价也是很大的，我的LC已经一星期没做了摸鱼真爽。但是！明天重启刷题路，并不是说说而已😉。
+心情 最近心态逐渐趋好，虽说偶尔想起来还是有点小难受昂，但是每根金针菇都能找到说与自己的牙缝，该继续学习了的🧐。
+准备 后面其实就是毕业答辩和日常的学习生活了，目前没想那么多，按部就班。
+另 封校什么时候结束的🤬！要疯辣！！！</description>
+    </item>
+    
+  </channel>
+</rss>
