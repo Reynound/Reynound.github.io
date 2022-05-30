@@ -1,9 +1,9 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo Site</title>
+    <title>A House</title>
     <link>https://lenux.netlify.app/</link>
-    <description>Recent content on A Hugo Site</description>
+    <description>Recent content on A House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
@@ -19,7 +19,7 @@
         <pubDate>Mon, 23 May 2022 17:43:45 +0800</pubDate>
         
         <guid>https://lenux.netlify.app/posts/%E7%9E%AC%E6%81%AF%E5%85%A8%E5%AE%87%E5%AE%99/</guid>
-        <description>A Hugo Site https://lenux.netlify.app/posts/%E7%9E%AC%E6%81%AF%E5%85%A8%E5%AE%87%E5%AE%99/ -&lt;blockquote&gt;
+        <description>A House https://lenux.netlify.app/posts/%E7%9E%AC%E6%81%AF%E5%85%A8%E5%AE%87%E5%AE%99/ -&lt;blockquote&gt;
 &lt;p&gt;Nothing matters?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;梗概&#34;&gt;梗概&lt;/h1&gt;
@@ -63,7 +63,7 @@
         <pubDate>Tue, 10 May 2022 16:23:50 +0800</pubDate>
         
         <guid>https://lenux.netlify.app/posts/%E5%98%9F%E5%9B%94%E5%9B%94/</guid>
-        <description>A Hugo Site https://lenux.netlify.app/posts/%E5%98%9F%E5%9B%94%E5%9B%94/ -&lt;blockquote&gt;
+        <description>A House https://lenux.netlify.app/posts/%E5%98%9F%E5%9B%94%E5%9B%94/ -&lt;blockquote&gt;
 &lt;p&gt;方法、顺序加灰色脑细胞&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;近期活动&#34;&gt;近期活动&lt;/h1&gt;
@@ -90,7 +90,7 @@
         <pubDate>Mon, 02 May 2022 15:31:41 +0800</pubDate>
         
         <guid>https://lenux.netlify.app/posts/%E5%98%9F%E5%9B%94/</guid>
-        <description>A Hugo Site https://lenux.netlify.app/posts/%E5%98%9F%E5%9B%94/ -&lt;blockquote&gt;
+        <description>A House https://lenux.netlify.app/posts/%E5%98%9F%E5%9B%94/ -&lt;blockquote&gt;
 &lt;p&gt;❗温馨提示    “正经人谁写日记啊”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;近期活动&#34;&gt;近期活动&lt;/h1&gt;
@@ -113,7 +113,7 @@
         <pubDate>Sun, 01 May 2022 12:19:45 +0800</pubDate>
         
         <guid>https://lenux.netlify.app/about/</guid>
-        <description>A Hugo Site https://lenux.netlify.app/about/ -&lt;h1 id=&#34;简介&#34;&gt;简介&lt;/h1&gt;
+        <description>A House https://lenux.netlify.app/about/ -&lt;h1 id=&#34;简介&#34;&gt;简介&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;😆耗时几天的小站终于建成，站在&lt;a href=&#34;https://blathers23.netlify.app/%E6%B5%85%E5%85%A5%E6%B5%85%E5%87%BAhugo%E6%95%99%E7%A8%8B/#4-%E5%8F%91%E5%B8%83%E4%BD%A0%E7%9A%84%E9%A1%B5%E9%9D%A2&#34;&gt;小巨人&lt;/a&gt;的肩膀上&lt;/p&gt;
 &lt;p&gt;考研摸鱼选手，一战失败，准备通过本站进行知识输出或者&lt;del&gt;记录日常&lt;/del&gt;&lt;/p&gt;
