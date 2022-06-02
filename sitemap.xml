@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lenux.netlify.app/</loc>
-    <lastmod>2022-05-28T09:48:33+08:00</lastmod>
+    <lastmod>2022-06-02T14:53:04+08:00</lastmod>
   </url><url>
-    <loc>https://lenux.netlify.app/categories/</loc>
-    <lastmod>2022-05-28T09:48:33+08:00</lastmod>
+    <loc>https://lenux.netlify.app/posts/test/</loc>
+    <lastmod>2022-06-02T14:53:04+08:00</lastmod>
   </url><url>
     <loc>https://lenux.netlify.app/posts/</loc>
+    <lastmod>2022-06-02T14:53:04+08:00</lastmod>
+  </url><url>
+    <loc>https://lenux.netlify.app/categories/</loc>
     <lastmod>2022-05-28T09:48:33+08:00</lastmod>
   </url><url>
     <loc>https://lenux.netlify.app/tags/</loc>
