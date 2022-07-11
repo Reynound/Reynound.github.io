@@ -1,0 +1,18 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A House</title>
+    <link>https://lenux.netlify.app/</link>
+    <description>Recent content on A House</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Sun, 10 Jul 2022 19:23:10 +0800</lastBuildDate>
+    
+        <atom:link href="https://lenux.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    
+  </channel>
+</rss> 
