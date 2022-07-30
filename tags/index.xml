@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on A House</title>
+    <title>Tags on Ahouse</title>
     <link>https://lenux.netlify.app/tags/</link>
-    <description>Recent content in Tags on A House</description>
+    <description>Recent content in Tags on Ahouse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Sun, 10 Jul 2022 19:23:10 +0800</lastBuildDate><atom:link href="https://lenux.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 16:54:57 +0800</lastBuildDate><atom:link href="https://lenux.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>印象</title>
       <link>https://lenux.netlify.app/tags/%E5%8D%B0%E8%B1%A1/</link>
-      <pubDate>Sun, 10 Jul 2022 19:23:10 +0800</pubDate>
+      <pubDate>Mon, 25 Jul 2022 16:54:57 +0800</pubDate>
       
       <guid>https://lenux.netlify.app/tags/%E5%8D%B0%E8%B1%A1/</guid>
       <description></description>
@@ -20,7 +20,7 @@
     <item>
       <title>今日细节</title>
       <link>https://lenux.netlify.app/tags/%E4%BB%8A%E6%97%A5%E7%BB%86%E8%8A%82/</link>
-      <pubDate>Mon, 27 Jun 2022 15:09:46 +0800</pubDate>
+      <pubDate>Thu, 21 Jul 2022 12:23:19 +0800</pubDate>
       
       <guid>https://lenux.netlify.app/tags/%E4%BB%8A%E6%97%A5%E7%BB%86%E8%8A%82/</guid>
       <description></description>

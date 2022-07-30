@@ -1,0 +1,15 @@
+日常：日记一样
+节点：重要变化
+谐人传：散文自传性质
+留人传：游记
+
+
+
+今日细节：真的
+后感：作品感悟
+印象：假的
+
+tags: [今日细节]
+categories: 节点
+featured_image: "/images/答辩.png"
+description: "答辩？道歉！"
