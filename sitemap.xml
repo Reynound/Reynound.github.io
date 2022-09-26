@@ -3,19 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lenux.netlify.app/</loc>
-    <lastmod>2022-09-10T19:37:38+08:00</lastmod>
+    <lastmod>2022-09-26T19:14:40+08:00</lastmod>
   </url><url>
     <loc>https://lenux.netlify.app/categories/</loc>
-    <lastmod>2022-09-10T19:37:38+08:00</lastmod>
+    <lastmod>2022-09-26T19:14:40+08:00</lastmod>
   </url><url>
     <loc>https://lenux.netlify.app/posts/</loc>
-    <lastmod>2022-09-10T19:37:38+08:00</lastmod>
+    <lastmod>2022-09-26T19:14:40+08:00</lastmod>
   </url><url>
     <loc>https://lenux.netlify.app/tags/</loc>
-    <lastmod>2022-09-10T19:37:38+08:00</lastmod>
+    <lastmod>2022-09-26T19:14:40+08:00</lastmod>
   </url><url>
     <loc>https://lenux.netlify.app/tags/%E4%BB%8A%E6%97%A5%E8%A7%82%E5%AF%9F/</loc>
-    <lastmod>2022-09-10T19:37:38+08:00</lastmod>
+    <lastmod>2022-09-26T19:14:40+08:00</lastmod>
+  </url><url>
+    <loc>https://lenux.netlify.app/posts/%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%91%E6%80%A5%E9%9C%80%E6%96%B0%E4%BA%8B%E7%89%A9%E5%88%BA%E6%BF%80%E9%BA%BB%E6%9C%A8%E7%9A%84%E7%A5%9E%E7%BB%8F%E4%B8%8D%E7%84%B6%E6%84%9F%E8%A7%89%E8%A6%81%E5%8F%98%E6%88%90%E9%BA%BB%E7%93%9C%E4%BA%86/</loc>
+    <lastmod>2022-09-26T19:14:40+08:00</lastmod>
+  </url><url>
+    <loc>https://lenux.netlify.app/categories/%E5%BA%A6%E6%9C%88/</loc>
+    <lastmod>2022-09-26T19:14:40+08:00</lastmod>
+  </url><url>
+    <loc>https://lenux.netlify.app/tags/%E8%B7%AF%E4%BA%BA/</loc>
+    <lastmod>2022-09-26T19:14:40+08:00</lastmod>
   </url><url>
     <loc>https://lenux.netlify.app/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-09-10T19:37:38+08:00</lastmod>
@@ -38,13 +47,7 @@
     <loc>https://lenux.netlify.app/posts/%E8%8B%A5%E6%98%AF%E4%B8%8D%E6%8B%85%E5%BF%83%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%9F%E5%91%BD%E6%B3%A2%E7%89%B9%E4%B9%9F%E4%B8%8D%E4%BC%9A%E6%89%93%E5%BC%80%E7%AC%AC%E4%B8%89%E7%99%BE%E4%B9%9D%E5%8D%81%E5%9B%9B%E9%A1%B5/</loc>
     <lastmod>2022-09-03T10:35:24+08:00</lastmod>
   </url><url>
-    <loc>https://lenux.netlify.app/categories/%E5%BA%A6%E6%9C%88/</loc>
-    <lastmod>2022-08-27T16:22:34+08:00</lastmod>
-  </url><url>
     <loc>https://lenux.netlify.app/posts/%E8%B5%B0%E5%87%BA%E6%88%BF%E9%97%B4%E7%9A%84%E6%88%91%E6%84%8F%E8%AF%86%E5%88%B0%E8%BF%99%E6%98%AF%E4%B8%AA%E6%9C%89%E6%B8%A9%E5%BA%A6%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2022-08-27T16:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://lenux.netlify.app/tags/%E8%B7%AF%E4%BA%BA/</loc>
     <lastmod>2022-08-27T16:22:34+08:00</lastmod>
   </url><url>
     <loc>https://lenux.netlify.app/posts/%E8%AE%B0%E5%BF%86%E4%B8%AD%E7%9A%84%E9%9B%A8%E5%BE%88%E9%9A%BE%E5%86%8D%E6%89%BE%E5%88%B0%E7%97%95%E8%BF%B9%E4%BD%86%E4%BA%BA%E5%8D%B4%E6%AC%A0%E6%89%93%E7%9A%84%E5%BE%88%E6%B7%B1%E5%88%BB/</loc>
