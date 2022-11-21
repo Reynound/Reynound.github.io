@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Tue, 08 Nov 2022 11:40:30 +0800</lastBuildDate><atom:link href="https://lenux.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 19:39:18 +0800</lastBuildDate><atom:link href="https://lenux.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>节点</title>
+      <link>https://lenux.netlify.app/categories/%E8%8A%82%E7%82%B9/</link>
+      <pubDate>Mon, 21 Nov 2022 19:39:18 +0800</pubDate>
+      
+      <guid>https://lenux.netlify.app/categories/%E8%8A%82%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>谐人传</title>
       <link>https://lenux.netlify.app/categories/%E8%B0%90%E4%BA%BA%E4%BC%A0/</link>
@@ -41,15 +50,6 @@
       <pubDate>Thu, 21 Jul 2022 12:23:19 +0800</pubDate>
       
       <guid>https://lenux.netlify.app/categories/%E7%95%99%E4%BA%BA%E4%BC%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>节点</title>
-      <link>https://lenux.netlify.app/categories/%E8%8A%82%E7%82%B9/</link>
-      <pubDate>Tue, 14 Jun 2022 20:49:40 +0800</pubDate>
-      
-      <guid>https://lenux.netlify.app/categories/%E8%8A%82%E7%82%B9/</guid>
       <description></description>
     </item>
     
